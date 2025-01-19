@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/montaser-shouzen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://montassershozan.github.io/MontaserSHouzenCV/#/intro" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
     <a href="https://wa.me/+201141322049" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
@@ -29,7 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,github,typescript,jquery,javascript,C#" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,github,typescript,jquery,javascript,C#,SQL,LINQ" />
 <br>
 </div>
 
