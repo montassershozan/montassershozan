@@ -4,17 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montaser+Shouzen!;" />
 </h1>
 
-<h3 align="center">Frontend Developer Angular from Cairo (Egypt)</h3>
+<h3 align="center">Full stack Developer (Angular & .Net) from Cairo (Egypt)</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Frontend by angular**
- 
- 🌱 I’m currently learning **.net**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:montasershozan12@gmail.com">
@@ -36,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,github,typescript,jquery,javascript" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,github,typescript,jquery,javascript,C#" />
 <br>
 </div>
 
